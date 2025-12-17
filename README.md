@@ -33,3 +33,7 @@ in the current dataset, indicating it should be prioritized for corrective actio
 - Furniture is the only loss-making category and contributes 100% of total loss.
 - Losses are highly concentrated rather than spread across categories.
 - Ranking and Pareto analysis show that fixing Furniture would eliminate overall losses.
+-  ## Sample Output
+
+![Loss Analysis Result](loss_analysis_result.png)
+
