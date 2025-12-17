@@ -29,3 +29,7 @@ The dataset contains order-level sales with:
 ## Key Insight
 Losses are concentrated in the Furniture category, contributing 100% of total loss
 in the current dataset, indicating it should be prioritized for corrective action.
+## Key Insights
+- Furniture is the only loss-making category and contributes 100% of total loss.
+- Losses are highly concentrated rather than spread across categories.
+- Ranking and Pareto analysis show that fixing Furniture would eliminate overall losses.
